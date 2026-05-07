@@ -1,0 +1,107 @@
+body {
+
+    background-color: #000000;
+
+    color: #00ff00;
+
+    font-family: "MS Gothic", monospace;
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+.container {
+
+    width: 1000px;
+
+    margin: auto;
+
+    padding: 20px;
+
+}
+
+h1 {
+
+    font-size: 70px;
+
+    color: #66ff66;
+
+    text-align: center;
+
+    text-shadow: 0 0 10px #00ff00;
+
+}
+
+h2 {
+
+    color: #66ff66;
+
+    border-left: 5px solid #00ff00;
+
+    padding-left: 10px;
+
+}
+
+p {
+
+    line-height: 2;
+
+}
+
+a {
+
+    color: #00ffff;
+
+    text-decoration: none;
+
+    margin-right: 20px;
+
+}
+
+a:hover {
+
+    color: yellow;
+
+}
+
+img {
+
+    border: 1px solid #00ff00;
+
+    margin-top: 10px;
+
+}
+
+table {
+
+    width: 500px;
+
+    border-collapse: collapse;
+
+}
+
+td {
+
+    padding: 10px;
+
+    border: 1px solid #00ff00;
+
+}
+
+hr {
+
+    border: 1px solid #00ff00;
+
+    margin-top: 30px;
+
+    margin-bottom: 30px;
+
+}
+
+ul {
+
+    line-height: 2;
+
+}
