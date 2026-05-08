@@ -6,6 +6,10 @@ body {
 
     font-family: "MS Gothic", monospace;
 
+    text-shadow:
+    0 0 5px #00ff00,
+    0 0 10px #00ff00;     
+
     margin: 0;
 
     padding: 0;
